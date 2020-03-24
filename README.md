@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Introduction
+# Introduction
 
 This project was build to develop a demo Blog web app using React JS.
  
@@ -14,7 +14,7 @@ This project was build to develop a demo Blog web app using React JS.
  
  
  
- ## About
+ # About
  
  Project consits of blog taken from JSON place holder just for demo.
  Here is only the front-end part of the project, back-end is under progress.
@@ -22,5 +22,5 @@ This project was build to develop a demo Blog web app using React JS.
  Project was developed to get the concepts of React JS understood.
  
  
- # Developed by : 
+ ## Developed by : 
  Kshitij Surendra Ukey

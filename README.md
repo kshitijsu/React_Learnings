@@ -21,4 +21,4 @@ This project was build to develop a demo Blog web app using React JS.
  
  
  ## Developed by : 
- Kshitij Surendra Ukey
+Mafia Developer
